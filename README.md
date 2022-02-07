@@ -1,2 +1,2 @@
 # hello-git
-gitの練習二回目
+gitの練習だよん
