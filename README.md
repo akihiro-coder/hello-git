@@ -9,13 +9,3 @@ gitの練習をがんばります
 楽しもう
 元気よく！
 gitの練習をがんばるぞ
-hello
-hello
-hello
-hello
-hello
-hello
-hello
-hello
-hello
-hello
