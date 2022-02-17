@@ -1,2 +1,3 @@
 # hello-git
-こんにちは！
+lady and gentleman! 
+boys and girls!
