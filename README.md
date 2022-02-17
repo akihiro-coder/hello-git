@@ -1,2 +1,3 @@
 # hello-git
-gomenkudasai!
+へーい
+最高だぜ！
