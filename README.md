@@ -1,2 +1,2 @@
 # hello-git
-gomenkudasai!
+へーい
